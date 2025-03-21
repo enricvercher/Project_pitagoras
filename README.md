@@ -76,9 +76,9 @@ The `Immcantation_repertoire_scripts/` directory includes **sample sheets and co
 ## 🚧 **Work in Progress**
 This project is still under active development. Some analyses are being optimized, and additional validation is required to confirm the tumor specificity of the identified TCRs. Future updates will include:
 
-- **Refinement of single-cell annotation models**
+- **Refinement of single-cell annotation based on differentially expressed genes (DEGs) and literature-derived signatures**
 - **Additional spatial transcriptomic datasets**
-- **Comparison with external TCR signature datasets**
+- **Functional avidity study using different methods and TCRdist-based physicochemical classification of TCRs**
 
 ---
 
