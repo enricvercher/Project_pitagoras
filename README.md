@@ -55,8 +55,7 @@ This analysis is based on **Hudson et al.** *Distinct phenotypic states and spat
 - **Notebooks:**
   - `00_Analysis_spatial_hudson.ipynb` → Processing spatial transcriptomics datasets.
   - `01_Analysis_TCR_Repertoire_Seurat.ipynb` → Integrating spatial data with Seurat.
-  - `01_Analysis_TCR_Repertoire.ipynb` → Exploring TCR clonality and localization.
-
+    
 - **Raw data processing scripts** (inside `utility_scripts/`):
   - `download_scRNAseq.sh`
   - `download_spati_scRNAseq.sh`
