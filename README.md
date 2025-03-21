@@ -20,14 +20,14 @@ The main analysis is structured in multiple Jupyter notebooks, covering various 
   - `00_Analysis_Doublet_SOLO.ipynb`
   - `00_Analysis_sc_QC_filtering.ipynb`
 
-- **Single-cell clustering and annotation**
+- **Evaluation of Single-Cell Automatic Annotation and Integration Methods**
   - `01_Analysis_sc_integration_cluster.ipynb`
   - `02_Analysis_sc_integration_scANVI.ipynb`
   - `02_Celltypist_Annotation.ipynb`
   - `03_Annotation_signatures_SH-TCR_10pts.ipynb`
   - `03_Atlas_ProjecTIL.ipynb`
 
-- **TCR repertoire and clonality analysis**
+- **TCR repertoire and clonality analysis, avidity assessment and trajectory inference**
   - `05_Analysis_Repertoire_clonality.ipynb`
   - `05_Study_Avidity_TCR.ipynb`
   - `05_Study_TCRdist3.ipynb`
