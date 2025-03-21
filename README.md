@@ -41,12 +41,16 @@ The main analysis is structured in multiple Jupyter notebooks, covering various 
 
 - **Figures & Data export**
   - `10_Figures_ppt_final_presentation.ipynb`
+    
+- **Interplay between scanpy and Seurat objects**
   - `Z_Transform_from_scanpy_to_Seurat_R.ipynb`
 
 ---
 
 ### 🔹 **Spatial-TCR Analysis**
-The `Spatial-TCR/` subdirectory contains ongoing analyses integrating **spatial transcriptomics and TCR sequencing**, aiming to **map tumor-reactive TCRs to their spatial location within the tumor microenvironment**. Key components include:
+The `Spatial-TCR/` subdirectory contains ongoing analyses integrating **spatial transcriptomics and TCR sequencing**, aiming to **map tumor-reactive TCRs to their spatial location within the tumor microenvironment**.
+
+This analysis is based on **Hudson et al.** *Distinct phenotypic states and spatial distribution of CD8+ T cell clonotypes in human brain metastases* (PMID: 35584630) and serves as a **technical validation and pipeline setup** for spatial TCR analysis.
 
 - **Notebooks:**
   - `00_Analysis_spatial_hudson.ipynb` → Processing spatial transcriptomics datasets.
@@ -80,7 +84,7 @@ This project is still under active development. Some analyses are being optimize
 ---
 
 ## 📢 **Contributors & Contact**
-For any questions or collaborations, please reach out via GitHub Issues or contact **[your name or lab affiliation here]**.
+For any questions or collaborations, please reach out via GitHub Issues or contact **evercheh@nasertic.es**.
 
 ---
 
