@@ -85,7 +85,3 @@ This project is still under active development. Some analyses are being optimize
 
 ## 📢 **Contributors & Contact**
 For any questions or collaborations, please reach out via GitHub Issues or contact **evercheh@nasertic.es**.
-
----
-
-✅ **Let me know if you want any modifications!** 🚀
