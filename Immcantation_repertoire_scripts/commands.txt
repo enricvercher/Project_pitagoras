@@ -1,0 +1,8 @@
+nextflow run nf-core/airrflow \
+-profile singularity \
+--input /data/scratch/LAB/enric/Proyecto_pitagoras/Analisis_pitagoras/Analisis_repertorio/repertorio_LT_samplesheet_PAN_HCC.tsv \
+-c /data/scratch/LAB/enric/airrflow_github/airrflow_github/nasertic_RNASeq.config \
+--mode assembled \
+--clonal_threshold 0.14 \
+--outdir Results_repertoire_18_41_49_50 \
+-resume

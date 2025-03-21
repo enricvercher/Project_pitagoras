@@ -1,0 +1,15 @@
+[gene-expression]
+reference,/data/scratch/LAB/enric/Referencias_para_cellranger/refdata-gex-GRCh38-2024-A
+cmo-set,/data/scratch/LAB/enric/Proyecto_pitagoras/Analisis_pitagoras/Scripts/scripts_cellranger_8/scripts_hcc_hashing/multi_config_CSV/demux/5p_hashing_demux_cmo-ref.csv
+create-bam,true 
+
+[libraries]
+fastq_id,fastqs,lanes,feature_types
+PIT_18_41_GEX,/data/scratch/LAB/temp_demultiplex/241127_sc_PITAGORAS_HCC_demux/PITAGORAS/GEX/PIT_18_41,1|2,Gene Expression
+SI-TN-D3,/data/scratch/LAB/temp_demultiplex/241127_sc_PITAGORAS_HCC_demux/PITAGORAS/Hashing,1|2,Multiplexing Capture
+
+[samples]
+sample_id,cmo_ids
+PIT_18,Hashtag2_Antibody
+PIT_41,Hashtag4_Antibody
+

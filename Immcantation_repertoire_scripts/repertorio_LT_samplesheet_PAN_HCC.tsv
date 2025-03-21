@@ -1,0 +1,7 @@
+filename	species	subject_id	sample_id	tissue	sex	age	biomaterial_provider	pcr_target_locus	single_cell
+/data/scratch/LAB/enric/Proyecto_pitagoras/Resultados_CellRanger/P14-pancreas/outs/per_sample_outs/P14-pancreas/vdj_t/airr_rearrangement.tsv	human	PT_14_PAN_T	PT_14_PAN_T	tumour	NA	NA	10x Genomics	TR	FALSE
+/data/scratch/LAB/enric/Proyecto_pitagoras/Resultados_CellRanger/P14-pancreas/outs/per_sample_outs/P14-pancreas/vdj_b/airr_rearrangement.tsv	human	PT_14_PAN_B	PT_14_PAN_B	tumour	NA	NA	10x Genomics	IG	FALSE
+/data/scratch/LAB/enric/Proyecto_pitagoras/Resultados_CellRanger/PIT_18-final/outs/per_sample_outs/PIT_18-final/vdj_t/airr_rearrangement.tsv	human	PT_18	PT_18	tumour	NA	NA	10x Genomics	TR	FALSE
+/data/scratch/LAB/enric/Proyecto_pitagoras/Resultados_CellRanger/PIT_41-final/outs/per_sample_outs/PIT_41-final/vdj_t/airr_rearrangement.tsv	human	PT_41	PT_41	tumour	NA	NA	10x Genomics	TR	FALSE
+/data/scratch/LAB/enric/Proyecto_pitagoras/Resultados_CellRanger/PT_49-final/outs/per_sample_outs/PT_49-final/vdj_t/airr_rearrangement.tsv	human	PT_49	PT_49	tumour	NA	NA	10x Genomics	TR	FALSE
+/data/scratch/LAB/enric/Proyecto_pitagoras/Resultados_CellRanger/PT_50-final/outs/per_sample_outs/PT_50-final/vdj_t/airr_rearrangement.tsv	human	PT_50	PT_50	tumour	NA	NA	10x Genomics	TR	FALSE

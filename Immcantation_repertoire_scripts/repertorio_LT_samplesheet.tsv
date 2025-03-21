@@ -1,0 +1,6 @@
+filename	species	subject_id	sample_id	tissue	sex	age	biomaterial_provider	pcr_target_locus	single_cell
+/data/scratch/LAB/enric/Proyecto_pitagoras/PT_14-final_2/outs/per_sample_outs/PT_14-final_2/vdj_t/airr_rearrangement.tsv	human	PT_14	PT_14	tumour	NA	NA	10x Genomics	TR	FALSE
+/data/scratch/LAB/enric/Proyecto_pitagoras/PT_17-final_2/outs/per_sample_outs/PT_17-final_2/vdj_t/airr_rearrangement.tsv	human	PT_17	PT_17	tumour	NA	NA	10x Genomics	TR	FALSE 
+/data/scratch/LAB/enric/Proyecto_pitagoras/PT_20-final_2/outs/per_sample_outs/PT_20-final_2/vdj_t/airr_rearrangement.tsv	human	PT_20	PT_20	tumour	NA	NA	10x Genomics	TR	FALSE 
+/data/scratch/LAB/enric/Proyecto_pitagoras/PT_22-final_2/outs/per_sample_outs/PT_22-final_2/vdj_t/airr_rearrangement.tsv	human	PT_22	PT_22	tumour	NA	NA	10x Genomics	TR	FALSE 
+/data/scratch/LAB/enric/Proyecto_pitagoras/PT_28-final_2/outs/per_sample_outs/PT_28-final_2/vdj_t/airr_rearrangement.tsv	human	PT_28	PT_28	tumour	NA	NA	10x Genomics	TR	FALSE 

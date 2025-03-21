@@ -1,0 +1,12 @@
+[gene-expression]
+reference,/data/scratch/LAB/enric/Referencias_para_cellranger/refdata-gex-GRCh38-2024-A
+check-library-compatibility,false
+create-bam,true
+
+[vdj]
+reference,/data/scratch/LAB/enric/Referencias_para_cellranger/refdata-cellranger-vdj-GRCh38-alts-ensembl-7.1.0
+
+[libraries]
+fastq_id,fastqs,feature_types
+PIT_14_GEX,/data/scratch/LAB/temp_demultiplex/20240911_scRNA_PITAGORAS_DIAMANTE/PIT_14/GEX,Gene Expression
+PIT_14_VDJ,/data/scratch/LAB/temp_demultiplex/20240911_scRNA_PITAGORAS_DIAMANTE/PIT_14/VDJ,VDJ-T
